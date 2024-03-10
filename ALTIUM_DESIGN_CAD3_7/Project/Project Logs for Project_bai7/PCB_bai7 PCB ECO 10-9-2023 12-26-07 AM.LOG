@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=310V Pin=HD1-1
+Removed Pin From Net: NetName=GND1 Pin=HD1-2
+Added Pin To Net: NetName=GND1 Pin=HD1-1
+Added Pin To Net: NetName=310V Pin=HD1-2
+Added Room: Name=Sch_bai7

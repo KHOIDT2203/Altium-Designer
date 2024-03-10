@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=NetD1_1 Pin=T1-1
+Added Pin To Net: NetName=GND1 Pin=T1-2
+Added Pin To Net: NetName=310V Pin=T1-3
+Added Pin To Net: NetName=BA8 Pin=T1-4
+Added Pin To Net: NetName=OUT2 Pin=T1-5
+Added Pin To Net: NetName=GND Pin=T1-6
+Added Pin To Net: NetName=GND Pin=T1-7
+Added Pin To Net: NetName=OUT1 Pin=T1-8

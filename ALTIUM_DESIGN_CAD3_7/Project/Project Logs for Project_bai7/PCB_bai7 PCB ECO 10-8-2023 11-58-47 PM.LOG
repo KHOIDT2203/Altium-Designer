@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=C2 Old Footprint=tu Hoa 18mm New Footprint=Cap_100uF/400V
+Change Component Comment : Designator=C2 Old Comment=100uF New Comment=100uF/400V
+Change component parameters: Designator = "C2"; Footprint = "Cap_100uF/400V"; UniqueID = "\HCJDLMKT"
+Change component parameters. Clean all parameters for all variants
+Added Room: Name=Sch_bai7

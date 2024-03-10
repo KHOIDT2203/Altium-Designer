@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=R1 Old Footprint=R2W New Footprint=Tro Vach 2W
+Change component parameters: Designator = "R1"; Footprint = "Tro Vach 2W"; UniqueID = "\SEMDDXTL"
+Change component parameters. Clean all parameters for all variants
+Added Room: Name=Sch_bai7
